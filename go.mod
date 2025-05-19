@@ -1,4 +1,4 @@
-// Custom for my use 
+// Custom for my use
 module github.com/chironjit/bitfinex-api-go
 
 go 1.23.0
