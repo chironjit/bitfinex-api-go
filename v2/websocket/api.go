@@ -4,12 +4,12 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/book"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/common"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingcredit"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingloan"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingoffer"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/order"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/book"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/common"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingcredit"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingloan"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingoffer"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/order"
 )
 
 type FlagRequest struct {

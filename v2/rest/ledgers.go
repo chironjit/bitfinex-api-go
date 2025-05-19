@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/common"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/ledger"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/common"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/ledger"
 )
 
 // LedgerService manages the Ledgers endpoint.

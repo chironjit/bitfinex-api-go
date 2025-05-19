@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/common"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/websocket"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/common"
+	"github.com/chironjit/bitfinex-api-go/v2/websocket"
 	"github.com/op/go-logging"
 )
 

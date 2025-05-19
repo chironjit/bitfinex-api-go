@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/convert"
+	"github.com/chironjit/bitfinex-api-go/pkg/convert"
 )
 
 type Position struct {

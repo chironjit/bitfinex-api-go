@@ -3,19 +3,19 @@ package main
 import (
 	"log"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/balanceinfo"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/event"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingcredit"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingloan"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingoffer"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/fundingtrade"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/margin"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/notification"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/order"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/position"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/trades"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/wallet"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/mux"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/balanceinfo"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/event"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingcredit"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingloan"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingoffer"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/fundingtrade"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/margin"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/notification"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/order"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/position"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/trades"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/wallet"
+	"github.com/chironjit/bitfinex-api-go/pkg/mux"
 )
 
 func main() {

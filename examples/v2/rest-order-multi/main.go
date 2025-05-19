@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/order"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/rest"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/order"
+	"github.com/chironjit/bitfinex-api-go/v2/rest"
 	"github.com/davecgh/go-spew/spew"
 )
 

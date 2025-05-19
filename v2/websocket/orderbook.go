@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/book"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/common"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/book"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/common"
 )
 
 type Orderbook struct {

@@ -5,10 +5,10 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/convert"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/common"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/trade"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/tradeexecutionupdate"
+	"github.com/chironjit/bitfinex-api-go/pkg/convert"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/common"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/trade"
+	"github.com/chironjit/bitfinex-api-go/pkg/models/tradeexecutionupdate"
 )
 
 // TradeService manages the Trade endpoint.
